@@ -19,7 +19,7 @@
 
 
 ## About The Data 
-**The dataset being used here was taken from Kaggle.com, a popular website for finding and publishing datasets. You can quickly access it by clicking [here](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset). It's a huge dataset that presents, as mentioned, thousands and thousands of transactions and whether or not they were deemed fraud by the relevant authority, which will be utilized as material for developing and training the classification models. Note however, given that the dataset is considerably large, with its csv file totalling a size of over 400MB, it will not be possible to upload it on here. Thus, I will upload only a sample of the data.** <br> 
+**The dataset being used here was taken from Kaggle.com, a popular website for finding and publishing datasets. You can quickly access it by clicking [here](https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset). It's a huge dataset that presents, as mentioned, thousands and thousands of monetary transactions and whether or not they were deemed fraud by the relevant authority, which will be utilized as material for developing and training the classification models. Note however, given that the dataset is considerably large, with its csv file totalling a size of over 400MB, it will not be possible to upload it on here. Thus, I will upload only a sample of the data.** <br> 
 <br> 
 **You can view each column and its description in the table below:** <br> 
 
